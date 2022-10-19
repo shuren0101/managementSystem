@@ -20,15 +20,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-**项目目标**
-
-- 能够基于Vue初始化项目
-- 能够基于Vue技术栈进行项目开发
-- 能够使用Vue的第三方组件进行项目开发
-- 能够说出前后端分离的开发模式
-
-
-
 [TOC]
 
 
