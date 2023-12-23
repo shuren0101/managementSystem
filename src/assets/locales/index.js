@@ -8,11 +8,13 @@ import ElementzhLocale from 'element-ui/lib/locale/lang/zh-CN'
 Vue.use(VueI18n)
 
 const i18n = new VueI18n({
-    locale: 'zh', // 默认语言
-    messages: {
-        zh: {...zhLocale, ...ElementzhLocale },
-        en: {...enLocale, ...ElementenLocale }
-    }
+  locale: 'zh', // 默认语言
+  messages: {
+    zh: { ...zhLocale, ...ElementzhLocale },
+    en: { ...enLocale, ...ElementenLocale }
+  },
+  fallbackRoot: true,
+  silentTranslationWarn: true
 })
 
 export default i18n

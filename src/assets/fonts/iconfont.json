@@ -1,79 +1,135 @@
 {
-  "id": "",
-  "name": "",
+  "id": "3777919",
+  "name": "vue-shop",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
-  "description": "",
+  "description": "电商后台管理系统",
   "glyphs": [
     {
-      "icon_id": "212782",
-      "name": "show-password ",
-      "font_class": "showpassword",
-      "unicode": "ea3f",
-      "unicode_decimal": 59967
+      "icon_id": "36065250",
+      "name": "地图",
+      "font_class": "shujuditu1",
+      "unicode": "e726",
+      "unicode_decimal": 59174
     },
     {
-      "icon_id": "401189",
-      "name": "user",
-      "font_class": "user",
-      "unicode": "e89a",
-      "unicode_decimal": 59546
+      "icon_id": "36065255",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e727",
+      "unicode_decimal": 59175
     },
     {
-      "icon_id": "401225",
-      "name": "users",
-      "font_class": "users",
-      "unicode": "e8b5",
-      "unicode_decimal": 59573
+      "icon_id": "36065256",
+      "name": "我的",
+      "font_class": "zhanghao",
+      "unicode": "e728",
+      "unicode_decimal": 59176
     },
     {
-      "icon_id": "768587",
-      "name": "password-b",
-      "font_class": "3702mima",
-      "unicode": "e66c",
-      "unicode_decimal": 58988
+      "icon_id": "37213912",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e618",
+      "unicode_decimal": 58904
     },
     {
-      "icon_id": "1727269",
-      "name": "06商品",
-      "font_class": "shangpin",
-      "unicode": "e888",
-      "unicode_decimal": 59528
+      "icon_id": "37213922",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e619",
+      "unicode_decimal": 58905
     },
     {
-      "icon_id": "1727362",
-      "name": "25单据",
-      "font_class": "danju",
-      "unicode": "e89b",
-      "unicode_decimal": 59547
+      "icon_id": "37213924",
+      "name": "事件",
+      "font_class": "shijian",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
     },
     {
-      "icon_id": "1727367",
-      "name": "28体积、空间",
-      "font_class": "tijikongjian",
-      "unicode": "e89f",
-      "unicode_decimal": 59551
+      "icon_id": "36925510",
+      "name": "013_组织架构",
+      "font_class": "a-013_zuzhijiagou",
+      "unicode": "e642",
+      "unicode_decimal": 58946
     },
     {
-      "icon_id": "1727461",
-      "name": "225默认头像",
-      "font_class": "morentouxiang",
-      "unicode": "e8c9",
-      "unicode_decimal": 59593
+      "icon_id": "37213910",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
     },
     {
-      "icon_id": "1727589",
-      "name": "406报表",
-      "font_class": "baobiao",
-      "unicode": "e902",
-      "unicode_decimal": 59650
+      "icon_id": "37213911",
+      "name": "概率",
+      "font_class": "gaishuai",
+      "unicode": "e612",
+      "unicode_decimal": 58898
     },
     {
-      "icon_id": "20279295",
-      "name": "lock_fill",
-      "font_class": "lock_fill",
-      "unicode": "e5cd",
-      "unicode_decimal": 58829
+      "icon_id": "37213913",
+      "name": "分类",
+      "font_class": "fenlei",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "37213917",
+      "name": "确认",
+      "font_class": "queren",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "37213919",
+      "name": "认证",
+      "font_class": "renzheng",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "37213921",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "37213925",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "38021281",
+      "name": "查看订单",
+      "font_class": "chakandingdan",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "29523851",
+      "name": "translate",
+      "font_class": "translate",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "36925464",
+      "name": "013_风险事件",
+      "font_class": "a-013_fengxianshijian",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "36925484",
+      "name": "013_通知-35",
+      "font_class": "a-013_tongzhi-35",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
     }
   ]
 }

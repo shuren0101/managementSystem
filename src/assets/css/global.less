@@ -1,0 +1,78 @@
+/* 全局样式表 */
+@--color-primary: #2c23e5;
+
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+
+div {
+  box-sizing: border-box;
+  // transition: all .6s ease-out;
+  // -o-transition: all .6s ease-out;
+  // -moz-transition: all .6s ease-out;
+  // -webkit-transition: all .6s ease-out;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center_start {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+  font-size: 14px;
+}
+
+.el-card {
+  box-shadow: 2px 0 20px rgba(0, 0, 0, .04) !important;
+}
+
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.el-table::before {
+  display: none;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.el-cascader-panel {
+  height: 200px;
+}
+
+.ql-editor {
+  min-height: 300px;
+}
+
+.empty {
+  margin: 20px auto;
+  font-size: 400px;
+}
+
+.module_title {
+  color: #121127;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
